@@ -30,7 +30,7 @@ const App = () => {
   // Admin layout and routes
   if (aToken) {
     return (
-      <div className='bg-[#F8F9FD]'>
+      <div className='bg-white'>
         <ToastContainer />
         <Navbar />
         <div className='flex items-start'>
