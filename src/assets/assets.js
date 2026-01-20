@@ -14,7 +14,6 @@ import pigeon from "./pigeon.png"
 
 export const assets = {
     add_icon,
-    admin_logo,
     appointment_icon,
     cancel_icon,
     doctor_icon,
