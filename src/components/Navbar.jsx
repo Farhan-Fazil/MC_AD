@@ -33,7 +33,7 @@ const Navbar = () => {
         {/* Logo */}
         <img
           onClick={() => navigate('/')}
-          className='w-36 sm:w-40 cursor-pointer'
+          className='w-20 sm:w-30 cursor-pointer'
           src={assets.pigeon}
           alt="Logo"
         />
